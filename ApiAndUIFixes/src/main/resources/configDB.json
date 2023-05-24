@@ -1,0 +1,7 @@
+{
+  "databaseUrl": "jdbc:mysql://localhost:--/union_reporting",
+  "userName": "",
+  "userPassword": "",
+  "deleteTestCommand": "delete from union_reporting.test where id=?",
+  "deleteProjectCommand": "delete from union_reporting.project where name=?"
+}
